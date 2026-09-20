@@ -1,25 +1,61 @@
 #prem's portfolio
-# TCAS Portfolio (10 Pages) 🎓
+#prem's portfol
 
-เว็บไซต์แฟ้มสะสมผลงาน (Portfolio) จำนวน 10 หน้าตามเกณฑ์มาตรฐาน TCAS พัฒนาด้วย HTML และ CSS รองรับการแสดงผลแบบ Responsive Preview และการพิมพ์ออกเป็นไฟล์ PDF (ขนาด A4) 
+<a href="https://drive.google.com/file/d/1Nuuy4bcFb_yZR7pwW1vgA7QFQOrwf8Ir/view?usp=sharing"
+target="_blank">
+<button> หน้าปก 📍 </button>
+</a>
 
-## 🌟 ฟีเจอร์เด่น
-- **สัดส่วนกระดาษจริง:** ออกแบบตามขนาดสัดส่วนกระดาษ A4 (210mm x 297mm)
-- **ระบบเมนูทางลัด:** มี Sidebar ด้านข้างสามารถคลิกเลือกดูหน้าต่างๆ ได้ทันที
-- **ตรงตามเกณฑ์ TCAS:** จัดหมวดหมู่หน้าชัดเจน โดยเน้นหน้าแฟ้มผลงานเด่นและกิจกรรมในหน้า 4-7
-- **Print Friendly:** กด `Ctrl + P` บนเบราว์เซอร์เพื่อบันทึกเป็น PDF ไปยื่นในระบบได้ทันทีโดยสัดส่วนไม่เพี้ยน
+<a href="https://drive.google.com/file/d/1lF1jYRVCq1qUNNkAuuxmqhxezfcJpAo2/view?usp=sharing"
+target="_blank">
+<button> ประวัติส่วนตัว 📍 </button>
+</a>
 
-## 📂 โครงสร้างเนื้อหาในแต่ละหน้า
-- **หน้าปก (Cover):** รายละเอียดตัวตน คณะ และมหาวิทยาลัยที่ต้องการเข้าศึกษา
-- **หน้า 1:** ประวัติส่วนตัว (Profile)
-- **หน้า 2:** ประวัติการศึกษา (Education)
-- **หน้า 3:** แรงบันดาลใจและเหตุผลที่อยากเข้าศึกษา (Statement of Purpose)
-- **หน้า 4-5:** ผลงาน/โครงงานเด่นชิ้นที่ 1 และ 2 (Main Projects) 🌟 *Focus Area*
-- **หน้า 6-7:** กิจกรรมวิชาการ ค่าย และกิจกรรมจิตอาสา (Activities) 🌟 *Focus Area*
-- **หน้า 8-9:** เกียรติบัตรและรางวัลความภาคภูมิใจ (Certificates)
-- **หน้า 10:** ประมวลภาพกิจกรรมเพิ่มเติม & ข้อมูลการติดต่อ (Contact)
+<a href="https://drive.google.com/file/d/1tD8tB5I6rm41JRLJrghkt6WNLAAUf-6G/view?usp=sharing"
+target="_blank">
+<button> ระเบียบแสดงผลการเรียน📍 </button>
+</a>
 
-## 🛠️ เทคโนโลยีที่ใช้
-- HTML5
-- CSS3 (Flexbox, Grid, Media @print)
-- Google Fonts (Prompt)
+<a href="https://drive.google.com/file/d/1VV30Ro2C9pixZQ2loy6uWZ_R99UCRlwT/view?usp=sharing"
+target="_blank">
+<button> SOP 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1rzoa6MTFE88ieF4QKhYqq_NyF4msl7C5/view?usp=sharing"
+target="_blank">
+<button> ผลงานที่ภาคภูมิใจ 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1sG4wahmOCcZUd7b7VgJfO5MBCpV5xzwp/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่เกี่ยวข้องกับคณะ 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1L7vxLG-YzaavX8Wemh5EmkxuSR62AVz0/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่เข้าร่วม 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1WZM-3pV9fi039OEDpkcjttiB-CaLhjzn/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่เข้าร่วม 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1GxVwsausj4FwTHfn35Bh4pYccdqERKGE/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมด้านจิตอาสา 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1M3LqTZPZI4nElWuG3VdbreA6tDn_0q2a/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมด้านจิตอาสา 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1mh2jyqvBqQPw2YZhL8IJqdlB0KTv5suY/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมเพิ่มเติม 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1XPyTih5l0osCzwr96Eeksf23uddnyLxq/view?usp=sharing"
+target="_blank">
+<button> ปกหลัง 📍 </button>
